@@ -1,4 +1,3 @@
-**#Todos App Using API & Bloc**
 Todos is a cross-platform todo list app that helps you stay organized and on top of your tasks. 
 It is built with Flutter, an open-source framework that enables the creation of high-quality and 
 top-performing mobile applications for mobile operating systems (iOS and Android).
