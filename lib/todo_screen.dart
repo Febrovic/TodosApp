@@ -18,7 +18,6 @@ class TodosScreen extends StatelessWidget {
         home: Scaffold(
           backgroundColor: const Color(0xFF142A39),
           appBar: AppBar(
-            leading: ElevatedButton(onPressed: () { Navigator.pop(context); }, child: const Icon(Icons.arrow_back),),
             title: const Text('Todos Today'),
             backgroundColor: const Color(0xFF224460),
           ),
