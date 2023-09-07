@@ -14,3 +14,5 @@ a lot of tasks.
 
 The app has a clean and modern design that is easy to use. The user interface is intuitive 
 and easy to navigate, so you can quickly find the features you need.
+
+![3](https://github.com/Febrovic/TodosApp/assets/65548328/7ef682bf-f2df-4cd5-a312-2a2eff65c28b)
