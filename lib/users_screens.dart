@@ -43,7 +43,6 @@ class _UsersScreenState extends State<UsersScreen> {
   }
 
 
-  /// Extracted ListView For All Users
   FutureBuilder<List<User>> UserListView() {
     return FutureBuilder(
                 future: UsersApi().getUsers(),

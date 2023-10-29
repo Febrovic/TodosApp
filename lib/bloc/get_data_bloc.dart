@@ -10,7 +10,10 @@ part 'get_data_state.dart';
 
 class GetDataBloc extends Bloc<GetDataEvent, GetDataState> {
   final TodosApi todosApi;
+
   final UsersApi usersApi;
+
+
   GetDataBloc(this.todosApi,this.usersApi) : super(LoadingState()) {
     on<GetDataEvent>((event, emit) async{
       if(event is GetTodosDataEvent){
